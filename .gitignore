@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore data files
+clean_crypto.csv
+crypto_data.csv
+crypto_names.csv
+X_encoded.csv
+X_scaled.csv
+
 # C extensions
 *.so
 
