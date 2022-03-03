@@ -9,7 +9,7 @@ crypto_data.csv
 crypto_names.csv
 X_encoded.csv
 X_scaled.csv
-
+crypto_clustered_.csv 
 # C extensions
 *.so
 
